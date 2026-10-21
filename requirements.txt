@@ -1,0 +1,4 @@
+plyfile
+matplotlib
+trimesh
+scipy
